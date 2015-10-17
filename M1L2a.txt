@@ -25,7 +25,7 @@ Well, then we have a system viewed from the rotating frame
 where the effective field is zero.
 Well, a spin of zero field does nothing,
 and then we know when we go back into the lab frame,
-all of the spinning [INAUDIBLE], and it rotates.
+all that the spin is doing is it rotates.
 It's an exact solution.
 I want to use it today again, but in a different way.
 But I want to just point it out, today we're
